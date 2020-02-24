@@ -1,6 +1,6 @@
-# :uc:package
+# :uc:vendor - :uc:package
 
-This is where your description should go. 
+:uc:vendor laravel package for :uc:package
 
 ## Installation
 
